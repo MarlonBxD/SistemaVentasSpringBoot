@@ -1,0 +1,12 @@
+.sales-form .table th {
+  background-color: #f8f9fa;
+  font-weight: 500;
+}
+
+.sales-form .table tfoot {
+  background-color: #f8f9fa;
+}
+
+.sales-form .table tfoot td {
+  padding: 0.75rem;
+}

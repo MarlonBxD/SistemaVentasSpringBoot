@@ -1,0 +1,13 @@
+.sales-list .actions {
+  display: flex;
+  justify-content: center;
+}
+
+.table th {
+  background-color: #f8f9fa;
+  font-weight: 500;
+}
+
+.table td {
+  vertical-align: middle;
+}
