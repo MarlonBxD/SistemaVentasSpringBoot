@@ -51,8 +51,3 @@ public class CategoriaController {
         return ResponseEntity.noContent().build();
     }
 }
-```  {
-        categoriaService.delete(id);
-        return ResponseEntity.noContent().build();
-    }
-}
